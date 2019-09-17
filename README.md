@@ -36,6 +36,6 @@ To run Project on another port :-
 To install new package in project :-
 
 ### `cd <your-project-name>`
-### `npm install @appbaseio/reactivesearch@2.3.2 --save` 
+### `npm install @appbaseio/reactivesearch@^2.3.2 --save` 
 or 
 ### `npm install <package name> --save`
