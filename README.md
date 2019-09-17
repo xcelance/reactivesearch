@@ -30,10 +30,10 @@ Creating a new react project.
 ### `npm install`
 ### `npm start`
 
-## To run Project on another port :-
+To run Project on another port :-
 ### `npm start --port <port-number>`
 
-## to install new package in project :-
+To install new package in project :-
 
 ### `cd <your-project-name>`
 ### `npm install <package-name> --save`
